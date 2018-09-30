@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511879837 source:c:\赵静 code blocks\调试中位数\main.c
+	<stdio.h>
+	<string.h>
+	<memory.h>
+

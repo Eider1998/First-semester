@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513944266 source:c:\赵静 code blocks\又见回文\main.c
+	<stdio.h>
+	<string.h>
+
